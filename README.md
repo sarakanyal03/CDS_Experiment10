@@ -95,4 +95,4 @@ Output (C) <br>
 
 
 # Conclusion  
-I learnt about pointers and how to pass arguments to functions using call by value and call by reference methods. I also learnt how to swap values using call by reference.
+In this study, we explored and implemented pointer operations, specifically focusing on the concepts of call by value and call by reference in programming. The implementation demonstrated the fundamental differences between these two approaches in terms of how data is passed to functions and how changes to the data within the function affect the original variables.
