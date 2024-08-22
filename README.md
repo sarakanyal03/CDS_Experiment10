@@ -41,7 +41,7 @@ int main()
 }
 ```
 Output (A) <br> 
-![]() 
+![EXP10A](https://github.com/sarakanyal03/CDS_Experiment10/blob/main/10A.png) 
 (B) <br> 
 ```
 // Swapping the values 
@@ -66,7 +66,7 @@ int main()
 } 
 ```
 Output (B) <br> 
-![]() 
+![EXP10B](https://github.com/sarakanyal03/CDS_Experiment10/blob/main/10B.png) 
 (C) <br> 
 ```
 // Swapping the values using call by reference  
@@ -91,7 +91,7 @@ int main()
 }
 ```
 Output (C) <br> 
-![]() 
+![EXP10C](https://github.com/sarakanyal03/CDS_Experiment10/blob/main/10C.png) 
 
 
 # Conclusion  
